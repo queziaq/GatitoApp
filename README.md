@@ -1,5 +1,5 @@
 # GatitoApp
-this app is an app cart of a pet shop ;)
+this project is an app cart of a pet shop ;)
 
 
 to run the project you must install node, then
